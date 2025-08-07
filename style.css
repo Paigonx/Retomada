@@ -1,1 +1,67 @@
-/* Add styles here */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+div {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 45px;
+    font-family: 'Playwrite HU', cursive;
+    margin-bottom: 45px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+body {
+    background-color: rgb(168, 168, 168);
+}
+
+h2 {
+    margin: 40px;
+    font-size: 30px;
+    margin-left: 175px;
+    font-family: 'Mozilla Headline', sans-serif;
+}
+
+.ola {
+    display: block;
+    margin-left: 17.50px;
+    border-radius: 25px;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+    width: 625px;
+    margin-left: 17.5px;
+    margin-top: 7px;
+    opacity: 75%;
+    margin-bottom: 25px;
+}
+
+li {
+    margin-left: 35px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.oola {
+    width: 400px;
+    position: fixed;
+    transform:rotate(90deg);
+    margin-left: 990px;
+}
+
+.Arroz {
+    display: block;
+    margin-left: 17.5px;
+    border-radius: 25px;
+    width: 625px;
+}
+.um {
+    margin-left: 75px;
+}
